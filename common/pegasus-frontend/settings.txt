@@ -1,4 +1,4 @@
-general.theme: themes/retromega/
+general.theme: /storage/emulated/0/pegasus-frontend/themes/retromega/
 general.verify-files: false
 general.input-mouse-support: true
 general.fullscreen: true
