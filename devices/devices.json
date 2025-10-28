@@ -1,0 +1,236 @@
+[
+  {
+    "id": "odin2",
+    "name": "Odin 2",
+    "brand": "AYN",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "odin3",
+    "name": "Odin 3",
+    "brand": "AYN",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "thor",
+    "name": "Thor",
+    "brand": "AYN",
+    "ar": {
+      "main": 169,
+      "secondary": 43
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rpmini",
+    "name": "Mini",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 11,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rp2s",
+    "name": "2S",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rp4",
+    "name": "4",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rp4pro",
+    "name": "4 Pro",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rp5",
+    "name": "5",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rp6",
+    "name": "6",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rpg2",
+    "name": "G2",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rpclassic4b",
+    "name": "Classic",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 43,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rpclassic6b",
+    "name": "Classic 6 buttons",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 43,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "rpflip2",
+    "name": "Flip 2",
+    "brand": "Retroid Pocket",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  }
+]
