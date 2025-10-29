@@ -1,0 +1,7 @@
+collection: Nintendo Switch
+shortname: switch
+extensions:  nca, NCA, nro, NRO, nso, NSO, nsp, NSP, xci, XCI
+launch: am start
+  -n dev.eden.eden_emulator/org.yuzu.yuzu_emu.activities.EmulationActivity
+  -a android.nfc.action.TECH_DISCOVERED
+  -d {file.uri}
