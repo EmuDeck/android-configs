@@ -2,7 +2,7 @@ collection: Mame
 shortname: mame
 extensions: 7z, chd, zip
 launch: am start
-  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/mame2003_plus_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
@@ -11,6 +11,8 @@ launch: am start
   -e APK /data/app/com.retroarch-1/base.apk
   -e SDCARD /storage/emulated/0
   -e EXTERNAL /storage/emulated/0/Android/data/com.retroarch/files
+  --activity-clear-task
+  --activity-clear-top
   
   
   

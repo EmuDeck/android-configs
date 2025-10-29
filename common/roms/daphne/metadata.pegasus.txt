@@ -2,7 +2,7 @@ collection: Arcade (Daphne)
 shortname: daphne
 extensions: zip
 launch: am start
-  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /data/data/com.retroarch/cores/daphne_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
@@ -11,6 +11,8 @@ launch: am start
   -e APK /data/app/com.retroarch-1/base.apk
   -e SDCARD /storage/emulated/0
   -e EXTERNAL /storage/emulated/0/Android/data/com.retroarch/files
+  --activity-clear-task
+  --activity-clear-top
   
   
   --activity-no-history

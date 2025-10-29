@@ -2,7 +2,7 @@ collection: Sega Genesis
 shortname: genesis
 extensions: 7z, bin, gen, md, sg, smd, zip
 launch: am start --user 0
-  -n com.retroarch/.browser.retroactivity.RetroActivityFuture
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM "{file.path}"
   -e LIBRETRO /data/data/com.retroarch/cores/genesis_plus_gx_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
@@ -13,3 +13,5 @@ launch: am start --user 0
   -e DOWNLOADS /storage/emulated/0/Download
   -e SCREENSHOTS /storage/emulated/0/Pictures
   -e EXTERNAL /storage/emulated/0/Android/data/com.retroarch/files
+  --activity-clear-task
+  --activity-clear-top
