@@ -1,4 +1,8 @@
 collection: Nintendo 3DS
 shortname: 3ds
 extensions: app, axf, cci, cxi, elf
-launch: am start -n io.github.lime3ds.android/.ui.EmulationActivity -a android.intent.action.VIEW -e GamePath {file.path}
+launch: am start -n io.github.lime3ds.android/org.citra.citra_emu.activities.EmulationActivity
+  -a android.intent.action.VIEW
+  -d {file.uri}
+  --activity-clear-task
+  --activity-clear-top

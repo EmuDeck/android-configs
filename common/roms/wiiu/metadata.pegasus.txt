@@ -1,0 +1,8 @@
+collection: Nintendo Wii U
+shortname: wiiu
+extensions: elf, ELF, rpx, RPX, tmd, TMD, wua, WUA, wud, WUD, wuhb, WUHB, wux, WUX
+launch: am start
+ -n info.cemu.cemu/.emulation.EmulationActivity
+ -d {file.uri}
+ --activity-clear-task
+ --activity-clear-top
