@@ -1,7 +1,8 @@
 collection: PlayStation 2
 shortname: ps2
-extensions: bin, cbn, ccd, chd, cue, exe, img, m3u, mdf, pbp, toc
+extensions: bin, cbn, ccd, chd, cue, exe, img, m3u, mdf, pbp, toc, iso
 command: am start
-  -n  xyz.aethersx2.android/.EmulationActivity
-  -a android.intent.action.MAIN
-  -e bootPath {file.documenturi}
+ -n come.nanodata.armsx2/kr.co.iefriends.pcsx2.MainActivity
+ --activity-clear-task
+ --activity-clear-top
+ --activity-no-history
