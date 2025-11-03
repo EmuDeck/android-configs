@@ -1,7 +1,97 @@
 [
   {
+    "id": "airmini",
+    "name": "Air Mini",
+    "brand": "AYANEO",
+    "ar": {
+      "main": 43,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "pocketace",
+    "name": "Pocket Ace",
+    "brand": "AYANEO",
+    "ar": {
+      "main": 32,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "pockets2",
+    "name": "Pocket S2",
+    "brand": "AYANEO",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "knkrpocketfit",
+    "name": "Pocket Fit",
+    "brand": "KONKR",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
     "id": "odin2",
     "name": "Odin 2",
+    "brand": "AYN",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "1080p",
+      "cemu": "1080p",
+      "dolphin": "1080p",
+      "aethersx2": "1080p",
+      "eden": "1080p",
+      "vita3k": "1080p",
+      "azahar": "1080p"
+    }
+  },
+  {
+    "id": "odin2portal",
+    "name": "Odin 2 Portal",
     "brand": "AYN",
     "ar": {
       "main": 169,
