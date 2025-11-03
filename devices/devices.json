@@ -1,5 +1,41 @@
 [
   {
+    "id": "rg406v",
+    "name": "RG406V",
+    "brand": "Anbernic",
+    "ar": {
+      "main": 43,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
+    }
+  },
+  {
+    "id": "rg477m",
+    "name": "RG477M",
+    "brand": "Anbernic",
+    "ar": {
+      "main": 43,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
+    }
+  },
+  {
     "id": "airmini",
     "name": "Air Mini",
     "brand": "AYANEO",
@@ -8,13 +44,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
     }
   },
   {
@@ -26,13 +62,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
     }
   },
   {
@@ -44,13 +80,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
     }
   },
   {
@@ -62,13 +98,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -80,13 +116,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -98,13 +134,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -116,13 +152,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -134,13 +170,13 @@
       "secondary": 43
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -152,13 +188,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -170,13 +206,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -188,13 +224,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -206,13 +242,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -224,13 +260,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -242,13 +278,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -260,13 +296,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -278,13 +314,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -296,13 +332,13 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
     }
   },
   {
@@ -314,13 +350,31 @@
       "secondary": false
     },
     "resolution": {
-      "ppsspp": "1080p",
-      "cemu": "1080p",
-      "dolphin": "1080p",
-      "aethersx2": "1080p",
-      "eden": "1080p",
-      "vita3k": "1080p",
-      "azahar": "1080p"
+      "ppsspp": "1080P",
+      "cemu": "1080P",
+      "dolphin": "1080P",
+      "aethersx2": "1080P",
+      "eden": "1080P",
+      "vita3k": "1080P",
+      "azahar": "1080P"
+    }
+  },
+  {
+    "id": "gcloud",
+    "name": "G Cloud",
+    "brand": "Logitech",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
     }
   }
 ]
