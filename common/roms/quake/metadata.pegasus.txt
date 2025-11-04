@@ -1,0 +1,9 @@
+collection: Quake
+shortname: quake
+extensions: desktop, pak, PAK, pk3, PK3, sh
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/tyrquake_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS

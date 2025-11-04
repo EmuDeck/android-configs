@@ -1,0 +1,9 @@
+collection: EasyRPG Game Engine
+shortname: easyrpg
+extensions: easyrpg, zip, ZIP
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/easyrpg_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS

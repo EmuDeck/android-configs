@@ -1,0 +1,11 @@
+collection: Thomson MO/TO Series
+shortname: moto
+extensions: fd, FD, sap, SAP, k7, K7, m7, M7, m5, M5, rom, ROM, 7z, 7Z, zip, ZIP
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/theodore_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+
+

@@ -1,0 +1,9 @@
+collection: Bandai SuFami Turbo
+shortname: sufami
+extensions: bml, BML, bs, BS, fig, FIG, sfc, SFC, smc, SMC, st, ST, 7z, 7Z, zip, ZIP
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/snes9x_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS

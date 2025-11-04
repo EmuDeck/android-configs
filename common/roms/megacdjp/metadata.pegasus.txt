@@ -1,0 +1,9 @@
+collection: Sega Mega-CD
+shortname: megacdjp
+extensions: 68k, 68K, bin, BIN, bms, BMS, chd, CHD, cue, CUE, gen, GEN, gg, GG, iso, ISO, m3u, M3U, md, MD, mdx, MDX, sg, SG, sgd, SGD, smd, SMD, sms, SMS, 7z, 7Z, zip, ZIP
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/genesis_plus_gx_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS

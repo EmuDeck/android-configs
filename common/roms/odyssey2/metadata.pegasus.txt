@@ -1,0 +1,11 @@
+collection: Magnavox Odyssey2
+shortname: odyssey2
+extensions: bin, BIN, 7z, 7Z, zip, ZIP
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/o2em_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+
+

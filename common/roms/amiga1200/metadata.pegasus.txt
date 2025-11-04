@@ -1,0 +1,12 @@
+collection: Commodore Amiga 1200
+shortname: amiga1200
+extensions: adf, ADF, adz, ADZ, ccd, CCD, chd, CHD, cue, CUE, dms, DMS, fdi, FDI, hdf, HDF, hdz, HDZ, ipf, IPF, rp9, RP9, iso, ISO, lha, LHA, m3u, M3U, mds, MDS, nrg, NRG, uae, UAE, 7z, 7Z, zip, ZIP
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/puae_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+
+
+

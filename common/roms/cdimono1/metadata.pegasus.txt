@@ -1,0 +1,12 @@
+collection: Philips CD-i
+shortname: cdimono1
+extensions: chd, CHD, cue, CUE, iso, ISO
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/same_cdi_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
+
+
+

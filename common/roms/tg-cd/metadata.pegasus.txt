@@ -1,0 +1,9 @@
+collection: NEC TurboGrafx-CD
+shortname: tg-cd
+extensions: ccd, CCD, chd, CHD, cue, CUE, img, IMG, iso, ISO, m3u, M3U, pce, PCE, sgx, SGX, toc, TOC, 7z, 7Z, zip, ZIP
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/mednafen_pce_libretro.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS

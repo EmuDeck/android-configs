@@ -1,0 +1,9 @@
+collection: Apple Macintosh
+shortname: macintosh
+extensions: dsk, img, zip ,hvf ,cmd
+launch: am start
+  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -e ROM {file.path}
+  -e LIBRETRO /data/data/com.retroarch/cores/minivmac.so
+  -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+  -e QUITFOCUS
