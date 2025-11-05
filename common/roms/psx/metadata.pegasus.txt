@@ -2,6 +2,8 @@ collection: PlayStation
 shortname: psx
 extensions: bin, cbn, ccd, chd, cue, ecm, exe, img, iso, m3u, mdf, mds, pbp, psexe, psf, toc
 launch: am start
-  -n com.github.stenzek.duckstation/.EmulationActivity
-  -e bootPath "{file.path}"
-  --ez resumeState 0
+-n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+-e ROM {file.path}
+-e LIBRETRO /data/data/com.retroarch/cores/swanstation_libretro_android.so
+-e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
+-e QUITFOCUS

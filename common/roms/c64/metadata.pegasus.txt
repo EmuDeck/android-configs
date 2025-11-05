@@ -4,6 +4,6 @@ extensions: bin, BIN, cmd, CMD, crt, CRT, d2m, D2M, d4m, D4M, d64, D64, d6z, D6Z
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/vice_x64_libretro.so
+  -e LIBRETRO /data/data/com.retroarch/cores/vice_x64_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS

@@ -4,6 +4,6 @@ extensions: ccd, CCD, chd, CHD, cue, CUE, img, IMG, iso, ISO, m3u, M3U, pce, PCE
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/mednafen_pce_libretro.so
+  -e LIBRETRO /data/data/com.retroarch/cores/mednafen_pce_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e QUITFOCUS
