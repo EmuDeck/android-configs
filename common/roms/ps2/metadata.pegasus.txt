@@ -1,8 +1,9 @@
 collection: PlayStation 2
 shortname: ps2
-extensions: bin, cbn, ccd, chd, cue, exe, img, m3u, mdf, pbp, toc, iso
+extensions: iso, chd, gz, mdf, bin, ciso, img
 command: am start
  -n come.nanodata.armsx2/kr.co.iefriends.pcsx2.MainActivity
+ -a android.intent.action.VIEW
+ -d {file.uri}
  --activity-clear-task
  --activity-clear-top
- --activity-no-history
