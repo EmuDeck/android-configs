@@ -7,4 +7,3 @@ launch: am start
  -c android.intent.category.DEFAULT
  -d {file.uri}
  -t application/octet-stream
- --activity-clear-task  --activity-clear-top  --activity-no-history
