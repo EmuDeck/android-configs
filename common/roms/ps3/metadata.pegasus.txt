@@ -2,7 +2,7 @@ collection: Playstation 3
 shortname: ps3
 extensions: iso
 launch: am start
- -n aenu.aps3e/.EmulatorActivity
+ -n net.rpcsx/.MainActivity
  --activity-clear-task
  --activity-clear-top
  --activity-no-history
