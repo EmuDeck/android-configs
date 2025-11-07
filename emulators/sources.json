@@ -1,6 +1,7 @@
 [
   {
     "id": "ppsspp",
+    "enabled": true,
     "name": "PPSSPP",
     "description": "PSP Emulator",
     "systems": ["PSP"],
@@ -14,6 +15,7 @@
   },
   {
     "id": "azahar",
+    "enabled": true,
     "name": "Azahar",
     "description": "Nintendo 3DS emulator",
     "systems": ["Nintendo 3DS"],
@@ -27,6 +29,7 @@
   },
   {
     "id": "armsx2",
+    "enabled": true,
     "name": "ARMSX2",
     "description": "Playstation 2 emulator",
     "systems": ["Playstation 2"],
@@ -40,6 +43,7 @@
   },
   {
     "id": "vita3k",
+    "enabled": false,
     "name": "Vita3K",
     "description": "Playstation Vita emulator",
     "systems": ["Playstation Vita"],
@@ -53,6 +57,7 @@
   },
   {
     "id": "ra",
+    "enabled": true,
     "name": "RetroArch",
     "description": "Multi-system emulator frontend",
     "systems": ["multisystem"],
@@ -66,6 +71,7 @@
   },
   {
     "id": "cemu",
+    "enabled": true,
     "name": "Cemu",
     "description": "Nintendo Wii U emulator",
     "systems": ["WiiU"],
@@ -79,6 +85,7 @@
   },
   {
     "id": "dolphin",
+    "enabled": true,
     "name": "Dolphin",
     "description": "Nintendo Gamecube & Wii emulator",
     "systems": ["Gamecube", "Wii"],
@@ -92,6 +99,7 @@
   },
   {
     "id": "rpcsx",
+    "enabled": true,
     "name": "RPCSX3",
     "description": "Playstation 3 emulator",
     "systems": ["Playstation 3"],
@@ -105,6 +113,7 @@
   },
   {
     "id": "pegasus",
+    "enabled": true,
     "name": "Pegasus Frontend",
     "description": "Retrogames Launcher",
     "systems": [],
