@@ -11,7 +11,8 @@
     "packageName": "org.ppsspp.ppsspp",
     "launchIntent": "org.ppsspp.ppsspp/.PpssppActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/PPSSPP/PSP/SYSTEM/ppsspp.ini",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/ppsspp.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/ppsspp.png",
+    "configFolder": "PPSSPP"
   },
   {
     "id": "azahar",
@@ -25,7 +26,8 @@
     "packageName": "io.github.lime3ds.android",
     "launchIntent": "io.github.lime3ds.android/org.citra.citra_emu.ui.main.MainActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/Azahar/config/config.ini",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/azahar.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/azahar.png",
+    "configFolder": "Azahar"
   },
   {
     "id": "armsx2",
@@ -39,7 +41,8 @@
     "packageName": "come.nanodata.armsx2",
     "launchIntent": "come.nanodata.armsx2/kr.co.iefriends.pcsx2.MainActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/armsx2/PCSX2-Android.ini",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/armsx2.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/armsx2.png",
+    "configFolder": "Armsx2"
   },
   {
     "id": "vita3k",
@@ -53,7 +56,8 @@
     "packageName": "org.vita3k.emulator",
     "launchIntent": "org.vita3k.emulator/.Emulator",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/Vita3K/config.yml",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/vita3k.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/vita3k.png",
+    "configFolder": "Vita3K"
   },
   {
     "id": "ra",
@@ -67,7 +71,8 @@
     "packageName": "com.retroarch",
     "launchIntent": "com.retroarch/.browser.mainmenu.MainMenuActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/Azahar/config/config.ini",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/ra.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/ra.png",
+    "configFolder": "RetroArch"
   },
   {
     "id": "cemu",
@@ -81,7 +86,8 @@
     "packageName": "com.retroarch",
     "launchIntent": "com.retroarch/.browser.mainmenu.MainMenuActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/Azahar/config/config.ini",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/cemu.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/cemu.png",
+    "configFolder": "cemu"
   },
   {
     "id": "dolphin",
@@ -95,7 +101,8 @@
     "packageName": "org.dolphinemu.dolphinemu",
     "launchIntent": "org.dolphinemu.dolphinemu/.ui.main.MainActivity",
     "configBaseUrl": "https://github.com/EmuDeck/android-configs/tree/main/common/Dolphin/Config",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/dolphin.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/dolphin.png",
+    "configFolder": "Dolphin"
   },
   {
     "id": "rpcsx",
@@ -109,7 +116,8 @@
     "packageName": "net.rpcsx",
     "launchIntent": "net.rpcsx/.MainActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/tree/main/common/RPCSX/config/config.yml",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/rpcsx.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/rpcsx.png",
+    "configFolder": "RPCSX"
   },
   {
     "id": "pegasus",
@@ -123,6 +131,7 @@
     "packageName": "org.pegasus_frontend.android",
     "launchIntent": "org.pegasus_frontend.android/.MainActivity",
     "configBaseUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/pegasus-frontend",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/pegasus.png"
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/pegasus.png",
+    "configFolder": "pegasus-frontend"
   }
 ]
