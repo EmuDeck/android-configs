@@ -106,7 +106,7 @@
   },
   {
     "id": "rpcsx",
-    "enabled": false,
+    "enabled": true,
     "name": "RPCSX3",
     "description": "Playstation 3 emulator",
     "systems": ["Playstation 3"],
