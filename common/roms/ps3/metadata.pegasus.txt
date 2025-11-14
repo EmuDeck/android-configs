@@ -3,6 +3,3 @@ shortname: ps3
 extensions: iso
 launch: am start
  -n net.rpcsx/.MainActivity
- --activity-clear-task
- --activity-clear-top
- --activity-no-history
