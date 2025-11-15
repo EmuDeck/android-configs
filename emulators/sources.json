@@ -83,8 +83,8 @@
     "fork": true,
     "downloadUrl": "https://api.github.com/repos/emudeck-android-forks/Cemu/releases/latest",
     "direct": false,
-    "packageName": "com.retroarch",
-    "launchIntent": "com.retroarch/.browser.mainmenu.MainMenuActivity",
+    "packageName": "info.cemu.cemu",
+    "launchIntent": "info.cemu.cemu/.browser.mainmenu.MainMenuActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/Azahar/config/config.ini",
     "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/cemu.png",
     "configFolder": "cemu"
@@ -107,7 +107,7 @@
   {
     "id": "rpcsx",
     "enabled": true,
-    "name": "RPCSX3",
+    "name": "RPCSX",
     "description": "Playstation 3 emulator",
     "systems": ["Playstation 3"],
     "fork": true,
