@@ -4,7 +4,7 @@ extensions: 68k, 68K, bin, BIN, bms, BMS, chd, CHD, cue, CUE, gen, GEN, gg, GG, 
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e /storage/emulated/0/RetroArch/cores/genesis_plus_gx_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/genesis_plus_gx_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch

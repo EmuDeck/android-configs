@@ -4,7 +4,7 @@ extensions: bin, BIN, bml, BML, bs, BS, bsx, BSX, dx2, DX2, fig, FIG, gd3, GD3, 
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e /storage/emulated/0/RetroArch/cores/snes9x_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/snes9x_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch

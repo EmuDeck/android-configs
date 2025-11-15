@@ -4,7 +4,7 @@ extensions: bml, BML, bs, BS, fig, FIG, sfc, SFC, smc, SMC, st, ST, 7z, 7Z, zip,
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e /storage/emulated/0/RetroArch/cores/snes9x_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/snes9x_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch

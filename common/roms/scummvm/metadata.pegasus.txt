@@ -4,7 +4,7 @@ extensions:  Seuss's  ABC, $00, (A), (a), (b), 0, 000, 001, 002, 003, 004, 005, 
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e /storage/emulated/0/RetroArch/cores/scummvm_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/scummvm_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch
