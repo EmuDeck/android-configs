@@ -134,5 +134,5 @@
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/armsx2/PCSX2-Android.ini",
     "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/armsx2.png",
     "configFolder": "Armsx2"
-  },
+  }
 ]
