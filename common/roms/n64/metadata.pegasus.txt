@@ -4,7 +4,7 @@ extensions: bin, n64, u1, v64, z64, zip, 7z
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/mupen64plus_next_gles3_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/mupen64plus_next_gles3_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch

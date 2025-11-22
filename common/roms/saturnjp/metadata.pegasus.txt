@@ -4,7 +4,7 @@ extensions: bin, BIN, ccd, CCD, chd, CHD, cue, CUE, iso, ISO, mds, MDS, toc, TOC
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/mednafen_saturn_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/mednafen_saturn_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch

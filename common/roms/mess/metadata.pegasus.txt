@@ -4,7 +4,7 @@ extensions: chd, CHD, 7z, 7Z, zip, ZIP
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/mess2015_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/mess2015_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch

@@ -4,7 +4,7 @@ extensions: j64, J64, jag, JAG, rom, ROM, abs, ABS, cof, COF, bin, BIN, prg, PRG
 launch: am start
   -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
-  -e LIBRETRO /data/data/com.retroarch/cores/virtualjaguar_libretro_android.so
+  -e LIBRETRO /storage/emulated/0/RetroArch/cores/virtualjaguar_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
   -e IME com.android.inputmethod.latin/.LatinIME
   -e DATADIR /data/data/com.retroarch
