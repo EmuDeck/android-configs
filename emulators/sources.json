@@ -17,7 +17,7 @@
   {
     "id": "cemu",
     "enabled": true,
-    "name": "Cemu",
+    "name": "Cemu EmuDeck Fork",
     "description": "Nintendo Wii U emulator",
     "systems": ["WiiU"],
     "fork": true,
@@ -32,7 +32,7 @@
   {
     "id": "dolphin",
     "enabled": true,
-    "name": "Dolphin",
+    "name": "Dolphin EmuDeck Fork",
     "description": "Nintendo Gamecube & Wii emulator",
     "systems": ["Gamecube", "Wii"],
     "fork": true,
@@ -62,7 +62,7 @@
   {
     "id": "ra",
     "enabled": true,
-    "name": "RetroArch",
+    "name": "RetroArch EmuDeck Fork",
     "description": "Multi-system emulator frontend",
     "systems": ["multisystem"],
     "fork": true,
