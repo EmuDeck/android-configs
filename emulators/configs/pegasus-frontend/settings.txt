@@ -3,7 +3,7 @@ general.verify-files: true
 general.input-mouse-support: true
 general.fullscreen: true
 providers.pegasus_media.enabled: true
-providers.androidapps.enabled: false
+providers.androidapps.enabled: true
 providers.logiqx.enabled: true
 providers.skraper.enabled: true
 keys.menu: F1,GamepadStart
