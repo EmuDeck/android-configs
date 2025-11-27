@@ -2,7 +2,7 @@
   "minimumVersionCode": 2,
   "latestVersionCode": 2,
   "latestVersionName": "0.89",
-  "forceUpdate": true,
+  "forceUpdate": false,
   "updateMessage": "New beta available. Please update",
   "downloadUrl": "https://f005.backblazeb2.com/file/emudeck-artwork/emudeck.apk"
 }
