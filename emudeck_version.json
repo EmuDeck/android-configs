@@ -1,6 +1,6 @@
 {
-  "minimumVersionCode": 2,
-  "latestVersionCode": 2,
+  "minimumVersionCode": 1,
+  "latestVersionCode": 1,
   "latestVersionName": "0.89",
   "forceUpdate": false,
   "updateMessage": "New beta available. Please update",
