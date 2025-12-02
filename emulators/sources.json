@@ -1,5 +1,20 @@
 [
   {
+    "id": "pegasus",
+    "enabled": true,
+    "name": "Pegasus Frontend",
+    "description": "Retrogames Launcher",
+    "systems": [],
+    "fork": true,
+    "downloadUrl": "https://api.github.com/repos/emudeck-android-forks/pegasus-frontend/releases/latest",
+    "direct": false,
+    "packageName": "org.pegasus_frontend.android",
+    "launchIntent": "org.pegasus_frontend.android/.MainActivity",
+    "configBaseUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/pegasus-frontend",
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/pegasus.png",
+    "configFolder": "pegasus-frontend"
+  },
+  {
     "id": "azahar",
     "enabled": true,
     "name": "Azahar",
@@ -89,22 +104,6 @@
     "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/rpcsx.png",
     "configFolder": "RPCSX"
   },
-  {
-    "id": "pegasus",
-    "enabled": true,
-    "name": "Pegasus Frontend",
-    "description": "Retrogames Launcher",
-    "systems": [],
-    "fork": true,
-    "downloadUrl": "https://api.github.com/repos/emudeck-android-forks/pegasus-frontend/releases/latest",
-    "direct": false,
-    "packageName": "org.pegasus_frontend.android",
-    "launchIntent": "org.pegasus_frontend.android/.MainActivity",
-    "configBaseUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/pegasus-frontend",
-    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/pegasus.png",
-    "configFolder": "pegasus-frontend"
-  },
-
   {
     "id": "vita3k",
     "enabled": false,
