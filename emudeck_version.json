@@ -1,8 +1,8 @@
 {
-  "minimumVersionCode": 1,
-  "latestVersionCode": 1,
-  "latestVersionName": "0.89",
-  "forceUpdate": false,
-  "updateMessage": "New beta available. Please update",
-  "downloadUrl": "https://f005.backblazeb2.com/file/emudeck-artwork/emudeck.apk"
+  "minimumVersionCode": 2,
+  "latestVersionCode": 2,
+  "latestVersionName": "0.96",
+  "forceUpdate": true,
+  "updateMessage": "New early access release available. Please update",
+  "downloadUrl": "https://f005.backblazeb2.com/file/emudeck-assets/android/early/emudeck-096.apk"
 }

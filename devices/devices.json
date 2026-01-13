@@ -36,6 +36,24 @@
     }
   },
   {
+    "id": "rg556",
+    "name": "RG556",
+    "brand": "Anbernic",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
+    }
+  },
+  {
     "id": "airmini",
     "name": "Air Mini",
     "brand": "AYANEO",
