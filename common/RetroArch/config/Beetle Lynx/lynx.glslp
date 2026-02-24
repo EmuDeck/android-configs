@@ -1,8 +1,0 @@
-shaders = "1"
-shader0 = "../../../../../../data/user/0/com.retroarch/shaders/shaders_glsl/handheld/zfast-lcd.glslp"
-alias0 = ""
-wrap_mode0 = "clamp_to_border"
-mipmap_input0 = "false"
-filter_linear0 = "false"
-float_framebuffer0 = "false"
-srgb_framebuffer0 = "false"
