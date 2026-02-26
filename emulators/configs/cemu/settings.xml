@@ -7,61 +7,11 @@
     <proxy_server></proxy_server>
     <play_boot_sound>false</play_boot_sound>
     <console_language>1</console_language>
-    <GamePaths/>
+    <GamePaths>
+        <Entry>/storage/emulated/0/Emulation/roms/wiiu</Entry>
+    </GamePaths>
     <GameCache/>
     <GraphicPack/>
-    <Graphic>
-        <api>1</api>
-        <device>00000000000000000000000000000000</device>
-        <VSync>0</VSync>
-        <GX2DrawdoneSync>true</GX2DrawdoneSync>
-        <UpscaleFilter>1</UpscaleFilter>
-        <DownscaleFilter>0</DownscaleFilter>
-        <FullscreenScaling>0</FullscreenScaling>
-        <AsyncCompile>true</AsyncCompile>
-        <vkAccurateBarriers>true</vkAccurateBarriers>
-        <Overlay>
-            <Position>0</Position>
-            <TextColor>4294967295</TextColor>
-            <TextScale>100</TextScale>
-            <FPS>true</FPS>
-            <DrawCalls>false</DrawCalls>
-            <CPUUsage>false</CPUUsage>
-            <CPUPerCoreUsage>false</CPUPerCoreUsage>
-            <RAMUsage>false</RAMUsage>
-            <VRAMUsage>false</VRAMUsage>
-            <Debug>false</Debug>
-        </Overlay>
-        <Notification>
-            <Position>1</Position>
-            <TextColor>4294967295</TextColor>
-            <TextScale>100</TextScale>
-            <ControllerProfiles>true</ControllerProfiles>
-            <ControllerBattery>false</ControllerBattery>
-            <ShaderCompiling>true</ShaderCompiling>
-            <FriendService>true</FriendService>
-        </Notification>
-    </Graphic>
-    <Audio>
-        <api>0</api>
-        <delay>2</delay>
-        <TVChannels>1</TVChannels>
-        <PadChannels>1</PadChannels>
-        <InputChannels>0</InputChannels>
-        <TVVolume>50</TVVolume>
-        <PadVolume>0</PadVolume>
-        <InputVolume>50</InputVolume>
-        <PortalVolume>50</PortalVolume>
-        <TVDevice>default</TVDevice>
-        <PadDevice></PadDevice>
-        <InputDevice></InputDevice>
-        <PortalDevice></PortalDevice>
-    </Audio>
-    <Account>
-        <PersistentId>2147483649</PersistentId>
-        <OnlineEnabled>false</OnlineEnabled>
-        <ActiveService>0</ActiveService>
-    </Account>
     <AccountService/>
     <Debug>
         <CrashDumpUnix>0</CrashDumpUnix>
