@@ -2,7 +2,7 @@
 <content>
     <logflag>0</logflag>
     <advanced_ppc_logging>false</advanced_ppc_logging>
-    <mlc_path>/storage/emulated/0/Emulation/storage/cemu</mlc_path>
+    <mlc_path>/storage/emulated/0/Emulation/storage/cemu/mlc01</mlc_path>
     <permanent_storage>true</permanent_storage>
     <proxy_server></proxy_server>
     <play_boot_sound>false</play_boot_sound>
