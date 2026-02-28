@@ -15,6 +15,21 @@
     "configFolder": "pegasus-frontend"
   },
   {
+    "id": "pegasus_companion",
+    "enabled": true,
+    "name": "Pegasus Companion",
+    "description": "Artwork & Themes Downloader",
+    "systems": [],
+    "fork": true,
+    "downloadUrl": "https://api.github.com/repos/dragoondorise/pegasus-companion/releases/latest",
+    "direct": false,
+    "packageName": "com.pegasus.artwork",
+    "launchIntent": "com.pegasus.artwork/.MainActivity",
+    "configBaseUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/pegasus-frontend",
+    "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/pegasus.png",
+    "configFolder": "pegasus-frontend"
+  },
+  {
     "id": "azahar",
     "enabled": true,
     "name": "Azahar",
