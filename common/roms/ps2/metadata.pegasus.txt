@@ -1,7 +1,10 @@
 collection: PlayStation 2
 shortname: ps2
 extensions: iso, chd, gz, mdf, bin, ciso, img
-command: am start
- -n come.nanodata.armsx2/kr.co.iefriends.pcsx2.MainActivity
- -a android.intent.action.VIEW
- -d {file.uri}
+command: am start               
+    -n xyz.aethersx2.android/.EmulationActivity
+    -a android.intent.action.MAIN
+    -e bootPath "{file.path}"                                    
+    --activity-clear-task
+    --activity-clear-top
+    --activity-no-history

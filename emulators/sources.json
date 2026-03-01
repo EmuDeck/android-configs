@@ -106,7 +106,7 @@
   },
   {
     "id": "rpcsx",
-    "enabled": true,
+    "enabled": false,
     "name": "RPCSX",
     "description": "Playstation 3 emulator",
     "systems": ["Playstation 3"],
@@ -136,7 +136,7 @@
   },
   {
     "id": "armsx2",
-    "enabled": true,
+    "enabled": false,
     "name": "ARMSX2",
     "description": "Playstation 2 emulator",
     "systems": ["Playstation 2"],
