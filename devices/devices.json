@@ -1,4 +1,4 @@
-[  
+[
   {
     "id": "rg406v",
     "name": "RG406V",
@@ -399,6 +399,24 @@
     "id": "gcloud",
     "name": "G Cloud",
     "brand": "Logitech",
+    "ar": {
+      "main": 169,
+      "secondary": false
+    },
+    "resolution": {
+      "ppsspp": "720P",
+      "cemu": "720P",
+      "dolphin": "720P",
+      "aethersx2": "720P",
+      "eden": "720P",
+      "vita3k": "720P",
+      "azahar": "720P"
+    }
+  },
+  {
+    "id": "android_phone",
+    "name": "Phone with no controller",
+    "brand": "Android",
     "ar": {
       "main": 169,
       "secondary": false
