@@ -1,0 +1,42 @@
+[android]
+audio_driver = 'openslES'
+frame_rate_limit = 60
+tcg_tb_size = 128
+tcg_thread = 'multi'
+tcg_tuning = true
+
+[audio]
+hrtf = true
+use_dsp = false
+volume_limit = 1.0
+
+    [audio.vp]
+    num_workers = 0
+
+[display]
+filtering = 'linear'
+renderer = 'vulkan'
+
+    [display.quality]
+    surface_scale = 1
+
+    [display.window]
+    vsync = false
+
+[general]
+show_welcome = false
+skip_boot_anim = false
+
+[perf]
+cache_shaders = true
+hard_fpu = true
+
+[sys]
+mem_limit = '64'
+
+    [sys.files]
+    bootrom_path = '/storage/emulated/0/Emulation/storage/x1box/mcpx.bin'
+    dvd_path = '/dev/fdset/9000'
+    eeprom_path = '/storage/emulated/0/Emulation/storage/x1box/eeprom.bin'
+    flashrom_path = '/storage/emulated/0/Emulation/storage/x1box/flash.bin'
+    hdd_path = '/storage/emulated/0/Emulation/storage/x1box/hdd.img'
