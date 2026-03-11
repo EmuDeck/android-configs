@@ -1,6 +1,4 @@
 collection: Microsoft Xbox
 shortname: xbox
-extensions: iso, ISO
-launch: /run/media/mmcblk0p1/Emulation/tools/launchers/xemu-emu.sh -full-screen -dvd_path {file.path}
-
-
+extensions: iso, ISO, xiso, XISO, cso, CSO, cci, CCI
+launch: am start -a android.intent.action.VIEW -d {file.uri} -n com.izzy2lost.x1box/.LauncherActivity
