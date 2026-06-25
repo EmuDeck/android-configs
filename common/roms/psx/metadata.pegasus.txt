@@ -2,7 +2,7 @@ collection: PlayStation
 shortname: psx
 extensions: bin, cbn, ccd, chd, cue, ecm, exe, img, iso, m3u, mdf, mds, pbp, psexe, psf, toc
 launch: am start
-  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -n emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /storage/emulated/0/RetroArch/cores/swanstation_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg

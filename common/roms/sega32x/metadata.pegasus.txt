@@ -2,7 +2,7 @@ collection: Sega 32X
 shortname: sega32x
 extensions: 32x, 68k, bin, cue, gen, iso, md, smd, sms, 7z, zip
 launch: am start
-  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -n emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /storage/emulated/0/RetroArch/cores/picodrive_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg

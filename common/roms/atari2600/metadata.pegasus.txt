@@ -2,7 +2,7 @@ collection: Atari 2600
 shortname: atari2600
 extensions: a26, A26, bin, BIN, 7z, 7Z, zip, ZIP
 launch: am start
-  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -n emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /storage/emulated/0/RetroArch/cores/stella_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg

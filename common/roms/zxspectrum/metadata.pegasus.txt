@@ -2,7 +2,7 @@ collection: ZX Spectrum (various)
 shortname: zxspectrum
 extensions: dsk, rzx, scl, tap, trd, tzx, z80
 launch: am start
-  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -n emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /storage/emulated/0/RetroArch/cores/fuse_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg

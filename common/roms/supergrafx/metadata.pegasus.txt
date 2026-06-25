@@ -2,7 +2,7 @@ collection: NEC SuperGrafx
 shortname: supergrafx
 extensions: pce, PCE, sgx, SGX, cue, CUE, ccd, CCD, chd, CHD, 7z, 7Z, zip, ZIP
 launch: am start
-  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -n emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /storage/emulated/0/RetroArch/cores/mednafen_supergrafx_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg

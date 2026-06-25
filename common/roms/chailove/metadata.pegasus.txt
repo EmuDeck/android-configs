@@ -2,7 +2,7 @@ collection: ChaiLove Game Engine
 shortname: chailove
 extensions: chai, CHAI, chailove, CHAILOVE, 7z, 7Z, zip, ZIP
 launch: am start
-  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -n emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /storage/emulated/0/RetroArch/cores/chailove_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg

@@ -2,7 +2,7 @@ collection: IBM PC
 shortname: pc
 extensions: bat, BAT, com, COM, conf, CONF, cue, CUE, dosz, DOSZ, exe, EXE, iso, ISO, 7z, 7Z, zip, ZIP
 launch: am start
-  -n com.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
+  -n emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture
   -e ROM {file.path}
   -e LIBRETRO /storage/emulated/0/RetroArch/cores/dosbox_pure_libretro_android.so
   -e CONFIGFILE /storage/emulated/0/Android/data/com.retroarch/files/retroarch.cfg
