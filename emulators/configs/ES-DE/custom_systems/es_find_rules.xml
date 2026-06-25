@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!-- This is the ES-DE find rules configuration file for Android -->
+<ruleList>
+	<emulator name="RETROARCH">
+		<rule type="androidpackage">
+			<entry>emudeck.retroarch/com.retroarch.browser.retroactivity.RetroActivityFuture</entry>
+		</rule>
+	</emulator>
+	<emulator name="DOLPHIN">
+		<rule type="androidpackage">
+			<entry>emudeck.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity</entry>
+		</rule>
+	</emulator>
+	<emulator name="CEMU">
+		<rule type="androidpackage">
+			<entry>emudeck.cemu.cemu/info.cemu.cemu.emulation.EmulationActivity</entry>
+		</rule>
+	</emulator>
+</ruleList>
