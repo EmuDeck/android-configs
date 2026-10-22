@@ -78,8 +78,8 @@
     "downloadUrl": "https://api.github.com/repos/emudeck-android-forks/Cemu/releases/latest",
     "apkName": "",
     "direct": false,
-    "packageName": "com.retroarch",
-    "launchIntent": "com.retroarch/.browser.mainmenu.MainMenuActivity",
+    "packageName": "info.cemu.cemu",
+    "launchIntent": "info.cemu.cemu/.browser.mainmenu.MainMenuActivity",
     "configFileUrl": "https://github.com/EmuDeck/android-configs/blob/main/common/Azahar/config/config.ini",
     "iconResource": "https://github.com/EmuDeck/android-configs/blob/main/emulators/img/cemu.png"
   },
